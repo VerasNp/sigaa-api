@@ -52,6 +52,7 @@ export * from '@search/sigaa-search';
 
 export * from '@session/login/sigaa-login-ifsc';
 export * from '@session/login/sigaa-login-ufpb';
+export * from '@session/login/sigaa-login-ufc';
 export * from '@session/login/sigaa-login';
 
 export * from '@session/sigaa-bond-controller';
